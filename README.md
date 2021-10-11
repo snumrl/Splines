@@ -4,7 +4,7 @@ This Curve Editor, written by Jehee Lee in 2015, is a freeware.
 You can use, modify, redistribute the code without restriction.
 This software requires python3, numpy, and glfw to be installed.
 
-+++
+***
 
 **[c]** Toggle open/closed
 
