@@ -4,7 +4,8 @@ This Curve Editor, written by Jehee Lee in 2015, is a freeware.
 You can use, modify, redistribute the code without restriction.
 This software requires python3, numpy, and glfw to be installed.
 
-***
+
+
 
 **[c]** Toggle open/closed
 
@@ -22,7 +23,6 @@ This software requires python3, numpy, and glfw to be installed.
 
 **[left/right arrow]** rotate control points
 
-***
 
 **[1]** B-spline
 
