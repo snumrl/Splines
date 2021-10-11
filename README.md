@@ -1,11 +1,23 @@
 # Splines
+![teaser](./spline.jpg)
+
+## Abstract
 
 This Curve Editor, written by Jehee Lee in 2015, is a freeware.
 You can use, modify, redistribute the code without restriction.
 This software requires python3, numpy, and glfw to be installed.
 
+## Run
 
+GLFW version
 
+```python spline.py```
+
+GLUT version
+
+```python spline.glut.py```
+
+## Usage
 
 **[c]** Toggle open/closed
 
