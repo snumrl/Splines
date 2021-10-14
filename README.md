@@ -3,7 +3,7 @@
 
 ## Abstract
 
-This Curve Editor, written by Jehee Lee in 2015, is a freeware.
+This Curve Editor, written by Jehee Lee in 2015, is freeware.
 You can use, modify, redistribute the code without restriction.
 This software requires python3, numpy, and glfw to be installed.
 I use this code mainly for teaching computer graphics and computer animation courses.
