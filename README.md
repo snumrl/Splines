@@ -16,7 +16,7 @@ GLFW version
 
 GLUT version
 
-```python spline.glut.py```
+```python spline_glut.py```
 
 ## Usage
 
