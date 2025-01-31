@@ -5,7 +5,7 @@
 
 This Curve Editor, written by Jehee Lee in 2015, is freeware.
 You are free to use, modify, and redistribute the code without any restrictions.
-This software requires python3, numpy, and glfw.
+This software requires python3, numpy, scipy, and glfw.
 I primarily use this code for teaching computer graphics and computer animation courses.
 
 ## Run
